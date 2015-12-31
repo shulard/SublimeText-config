@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApacheConf.tmLanguage",
+		"AutoFileName",
+		"Babel",
+		"Behat",
+		"Color Highlighter",
+		"DocBlockr",
+		"Homebrew-formula-syntax",
+		"Indent XML",
+		"Laravel Blade Highlighter",
+		"Liquid",
+		"Package Control",
+		"Sass",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phpmd",
+		"Theme - Soda",
+		"Twig",
+		"Xdebug Client"
+	]
+}

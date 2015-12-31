@@ -1,0 +1,6 @@
+{
+	/**
+	 * Disable the non crawling of php files in project
+	 */
+	 "codeintel_config": {}
+}
