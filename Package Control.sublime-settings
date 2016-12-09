@@ -11,10 +11,13 @@
 		"Behat",
 		"Color Highlighter",
 		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"DotENV",
 		"Homebrew-formula-syntax",
 		"Indent XML",
 		"Laravel Blade Highlighter",
 		"Liquid",
+		"nginx",
 		"Package Control",
 		"Sass",
 		"SublimeCodeIntel",
@@ -25,8 +28,10 @@
 		"SublimeLinter-php",
 		"SublimeLinter-phpcs",
 		"SublimeLinter-phpmd",
+		"SublimeLinter-xmllint",
 		"Theme - Soda",
 		"Twig",
+		"WordCount",
 		"Xdebug Client"
 	]
 }
