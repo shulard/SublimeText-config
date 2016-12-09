@@ -1,5 +1,9 @@
 {
 	"auto_indent": true,
+	"binary_file_patterns":
+	[
+		"node_modules/"
+	],
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/Solarized (Dark) (SL).tmTheme",
 	"detect_indentation": true,
@@ -39,5 +43,7 @@
 	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"ui_font_size_small": true,
+	"ui_separator": true
 }
